@@ -1,2 +1,2 @@
 # rustychip8
-CHIP 8 CPU on rust
+CHIP 8 interpreter on rust
